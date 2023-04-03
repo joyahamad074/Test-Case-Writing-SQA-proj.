@@ -6,6 +6,9 @@ Here Test case is written on Sign in & Sign up modules both web and mobile app.
 
 ![1](https://github.com/joyahamad074/Test-Case-Writing-SQA-proj./blob/main/images/Test-plan-ali2bd.PNG)
 
+## Test Metrics:
+
+![1](https://github.com/joyahamad074/Test-Case-Writing-SQA-proj./blob/main/images/test-metrics.PNG)
 
 ## Mindmap:
 
