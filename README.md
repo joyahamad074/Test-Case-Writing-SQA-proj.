@@ -1,4 +1,4 @@
-## Project For Mannual Test Case Writting, Test plan, Mindmap & Bug Reporting.
+## Project For Mannual Test Case Writting, Test plan, Test Metrics, Mindmap & Bug Reporting.
 The website I have used for this Test Case Writting, Test plan, Mindmap & Bug Reporting is [https://ali2bd.com/](https://ali2bd.com/)  
 Here Test case is written on Sign in & Sign up modules both web and mobile app. 
 
